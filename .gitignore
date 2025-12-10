@@ -43,3 +43,4 @@ Thumbs.db
 
 # Pdf-Tron assets
 /assets/pdftron-lib
+/src/assets/pdftron-lib/

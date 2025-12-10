@@ -1,0 +1,8 @@
+.scale-overlay-header {
+  display: none !important;
+}
+
+.ScaleOverlay {
+  display: none !important;
+  width: 200px !important;
+}
